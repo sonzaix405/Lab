@@ -83,7 +83,7 @@ will be treated as a policy violation.
 
 ## 👤 Ownership
 
-**Maintainer:** Sonzaix
+**Maintainer:** Sonzaix Lab Core Team  
 **Escalation:** Contact repository owner via internal channel.
 
 ---
